@@ -1,0 +1,8 @@
+Понадобятся следующие библиотеки
+aiogram
+asyncio
+gspread
+datetime
+time
+requests
+logging
